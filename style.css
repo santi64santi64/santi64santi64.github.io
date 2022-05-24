@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+body {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    background: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.dreamstime.com%2Femparede-el-concepto-del-andidea-de-los-fondos-color-azul-y-verde-cemento-image128954617&psig=AOvVaw3zY2ZKOYqSEzzjykaCACyr&ust=1653444672313000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCKDQyMmH9_cCFQAAAAAdAAAAABAO");
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+    justify-content: flex-end;
+    text-align: center;
+}
+/* Smartphones (horizontal) ----------- */
+@media only screen and (min-width : 321px) {
+    /* AQUÍ ESCRIBES LOS ESTILOS CSS */
+    }
+    
+    /* Smartphones (vertical) ----------- */
+    @media only screen and (max-width : 320px) {
+    /* AQUÍ ESCRIBES LOS ESTILOS CSS */
+    }
+
+
+.guion {
+    color: red;
+}
